@@ -1,0 +1,266 @@
+{
+ "Adams": [
+  "Franklin",
+  "Grant",
+  "Lincoln",
+  "Whitman"
+ ],
+ "Asotin": [
+  "Garfield",
+  "Whitman"
+ ],
+ "Benton": [
+  "Franklin",
+  "Grant",
+  "Klickitat",
+  "Walla Walla",
+  "Yakima"
+ ],
+ "Chelan": [
+  "Douglas",
+  "King",
+  "Kittitas",
+  "Okanogan",
+  "Skagit",
+  "Snohomish"
+ ],
+ "Clallam": [
+  "Jefferson",
+  "San Juan"
+ ],
+ "Clark": [
+  "Cowlitz",
+  "Skamania"
+ ],
+ "Columbia": [
+  "Franklin",
+  "Garfield",
+  "Walla Walla",
+  "Whitman"
+ ],
+ "Cowlitz": [
+  "Clark",
+  "Lewis",
+  "Skamania",
+  "Wahkiakum"
+ ],
+ "Douglas": [
+  "Chelan",
+  "Grant",
+  "Kittitas",
+  "Okanogan"
+ ],
+ "Ferry": [
+  "Lincoln",
+  "Okanogan",
+  "Stevens"
+ ],
+ "Franklin": [
+  "Adams",
+  "Benton",
+  "Columbia",
+  "Grant",
+  "Walla Walla",
+  "Whitman"
+ ],
+ "Garfield": [
+  "Asotin",
+  "Columbia",
+  "Whitman"
+ ],
+ "Grant": [
+  "Adams",
+  "Benton",
+  "Douglas",
+  "Franklin",
+  "Kittitas",
+  "Lincoln",
+  "Okanogan",
+  "Yakima"
+ ],
+ "Grays Harbor": [
+  "Jefferson",
+  "Lewis",
+  "Mason",
+  "Pacific",
+  "Thurston"
+ ],
+ "Island": [
+  "Jefferson",
+  "Kitsap",
+  "San Juan",
+  "Skagit",
+  "Snohomish"
+ ],
+ "Jefferson": [
+  "Clallam",
+  "Grays Harbor",
+  "Island",
+  "Kitsap",
+  "Mason",
+  "San Juan"
+ ],
+ "King": [
+  "Chelan",
+  "Kitsap",
+  "Kittitas",
+  "Pierce",
+  "Snohomish",
+  "Yakima"
+ ],
+ "Kitsap": [
+  "Island",
+  "Jefferson",
+  "King",
+  "Mason",
+  "Pierce",
+  "Snohomish"
+ ],
+ "Kittitas": [
+  "Chelan",
+  "Douglas",
+  "Grant",
+  "King",
+  "Pierce",
+  "Yakima"
+ ],
+ "Klickitat": [
+  "Benton",
+  "Skamania",
+  "Yakima"
+ ],
+ "Lewis": [
+  "Cowlitz",
+  "Grays Harbor",
+  "Pacific",
+  "Pierce",
+  "Skamania",
+  "Thurston",
+  "Wahkiakum",
+  "Yakima"
+ ],
+ "Lincoln": [
+  "Adams",
+  "Ferry",
+  "Grant",
+  "Okanogan",
+  "Spokane",
+  "Stevens",
+  "Whitman"
+ ],
+ "Mason": [
+  "Grays Harbor",
+  "Jefferson",
+  "Kitsap",
+  "Pierce",
+  "Thurston"
+ ],
+ "Okanogan": [
+  "Chelan",
+  "Douglas",
+  "Ferry",
+  "Grant",
+  "Lincoln",
+  "Skagit",
+  "Whatcom"
+ ],
+ "Pacific": [
+  "Grays Harbor",
+  "Lewis",
+  "Wahkiakum"
+ ],
+ "Pend Oreille": [
+  "Spokane",
+  "Stevens"
+ ],
+ "Pierce": [
+  "King",
+  "Kitsap",
+  "Kittitas",
+  "Lewis",
+  "Mason",
+  "Thurston",
+  "Yakima"
+ ],
+ "San Juan": [
+  "Clallam",
+  "Island",
+  "Jefferson",
+  "Skagit",
+  "Whatcom"
+ ],
+ "Skagit": [
+  "Chelan",
+  "Island",
+  "Okanogan",
+  "San Juan",
+  "Snohomish",
+  "Whatcom"
+ ],
+ "Skamania": [
+  "Clark",
+  "Cowlitz",
+  "Klickitat",
+  "Lewis",
+  "Yakima"
+ ],
+ "Snohomish": [
+  "Chelan",
+  "Island",
+  "King",
+  "Kitsap",
+  "Skagit"
+ ],
+ "Spokane": [
+  "Lincoln",
+  "Pend Oreille",
+  "Stevens",
+  "Whitman"
+ ],
+ "Stevens": [
+  "Ferry",
+  "Lincoln",
+  "Pend Oreille",
+  "Spokane"
+ ],
+ "Thurston": [
+  "Grays Harbor",
+  "Lewis",
+  "Mason",
+  "Pierce"
+ ],
+ "Wahkiakum": [
+  "Cowlitz",
+  "Lewis",
+  "Pacific"
+ ],
+ "Walla Walla": [
+  "Benton",
+  "Columbia",
+  "Franklin"
+ ],
+ "Whatcom": [
+  "Okanogan",
+  "San Juan",
+  "Skagit"
+ ],
+ "Whitman": [
+  "Adams",
+  "Asotin",
+  "Columbia",
+  "Franklin",
+  "Garfield",
+  "Lincoln",
+  "Spokane"
+ ],
+ "Yakima": [
+  "Benton",
+  "Grant",
+  "King",
+  "Kittitas",
+  "Klickitat",
+  "Lewis",
+  "Pierce",
+  "Skamania"
+ ]
+}
