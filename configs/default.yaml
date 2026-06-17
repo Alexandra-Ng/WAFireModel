@@ -1,0 +1,10 @@
+seed: 0
+data:
+  years: [2014, 2016, 2017, 2018, 2019]
+  train_years: [2014, 2016, 2017, 2018]
+  test_years: [2019]
+model:
+  hidden_dim: 8
+train:
+  epochs: 250
+  lr: 0.005
