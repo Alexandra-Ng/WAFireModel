@@ -12,3 +12,4 @@ model:
 train:
   epochs: 250
   lr: 0.005
+  weight_decay: 0.1
